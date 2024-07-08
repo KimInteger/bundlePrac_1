@@ -1,0 +1,19 @@
+{
+  "name": "bundleprac_1",
+  "version": "1.0.0",
+  "description": "\"오전 머리 환기\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimInteger/bundlePrac_1.git"
+  },
+  "author": "KimInteger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KimInteger/bundlePrac_1/issues"
+  },
+  "homepage": "https://github.com/KimInteger/bundlePrac_1#readme"
+}
