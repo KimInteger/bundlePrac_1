@@ -4,7 +4,8 @@
   "description": "\"오전 머리 환기\"",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:webpack" : "webpack"
   },
   "repository": {
     "type": "git",
